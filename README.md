@@ -3,4 +3,5 @@ An ugly console Tic Tac Toe game using custom Minimax.
 
 <br>
 
-## Warning! I don't recommend using this code for learning.
+## Warning! I don't recommend using this code for learning!
+### I know it's ugly, sorry...
